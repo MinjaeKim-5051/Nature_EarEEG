@@ -2,5 +2,4 @@ This repository contains the author-developed source code used for measurement, 
 
 The code supports preprocessing, visualization, and analysis of recorded signals for the purpose of evaluating system performance and demonstrating representative experimental results. The implementation reflects the analysis pipeline used in the reported experiments and is intended to support repeatable testing with the corresponding hardware. No external firmware or proprietary middleware is redistributed here. The code is not intended to function as a standalone analysis package without the corresponding measurement setup and input data. Raw physiological data are not included in this repository. Due to IRB and human-subject data protection requirements, such data cannot be publicly shared and are available only upon reasonable request and subject to appropriate approval. Any shared data will be anonymized and provided in accordance with applicable ethical and institutional guidelines. Minor adaptation may be required depending on the specific experimental protocol and data format.
 
-The code is provided for transparency and documentation of the physiological signal measurement and analysis methodology used in the reported system.
-
+The code is provided for transparency and documentation of the physiological signal measurement and analysis methodology used in the study.
